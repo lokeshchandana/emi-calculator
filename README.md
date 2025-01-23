@@ -36,7 +36,7 @@ emi-calculator/
 4. Click the "Calculate EMI" button to view the monthly EMI result.
 
 ## Screenshot
-![EMI Calculator Screenshot](screenshot.png)
+![EMI Calculator Screenshot](screenshot.PNG)
 
 ## How It Works
 - The application takes the loan amount, annual interest rate, and loan tenure as inputs.
